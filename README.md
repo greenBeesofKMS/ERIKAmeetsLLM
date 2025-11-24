@@ -1,7 +1,7 @@
 # About
 Erika S3004 electronic + ESP32 + Chatbot = ....
-A project rooted in Chaos Computer Club Potsdam (CCCP) and Chaostreff Chemnitz (ChCh) by KaKoepferl(https://github.com/greenBeesofKMS), forwarded by [AKurze](https://github.com/akurze) / [tucmi](https://github.com/tucmi).
-https://github.com/cyroxx/erika3004/tree/master/arduino
+A project rooted in Make Magazin,Chaos Computer Club Potsdam (CCCP) and Chaostreff Chemnitz (ChCh) by KaKoepferl(https://github.com/greenBeesofKMS), forwarded by [AKurze](https://github.com/akurze) / [tucmi](https://github.com/tucmi).
+
 # Libraries
 Erika uses third party libraries. Thanks to everyone who has developed and maintained these libraries. Here's an incomplete list of the libraries used
 * [Libary für ASCIIDDR DDR ASCIII](https://github.com/cyroxx/erika3004/tree/master/arduino) used back then but now we are on UTF8 :-)
