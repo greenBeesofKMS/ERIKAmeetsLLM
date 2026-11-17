@@ -1,0 +1,15 @@
+{
+  "name": "Erika-Dongle-Code",
+  "version": "latest",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "Erika-Dongle-Code.ino.bootloader.bin", "offset": 0},
+        { "path": "Erika-Dongle-Code.ino.partitions.bin", "offset": 32768 },
+        { "path": "Erika-Dongle-Code.ino.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
